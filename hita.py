@@ -55,8 +55,7 @@ def tik():
         sys.stdout.write('\r\033[31;1m[!] \x1b[1;92mTunggu Sebentar \x1b[1;97m' + animation[(i % len(animation))])
         sys.stdout.flush()
 
-logo =
- ________ ________  ______  __       __ __       __  ______  __    __  ______  __        ______   ______  __    __ 
+logo = ________ ________  ______  __       __ __       __  ______  __    __  ______  __        ______   ______  __    __ 
 /        /        |/      \/  \     /  /  \     /  |/      \/  \  /  |/      \/  |      /      \ /      \/  |  /  |
 $$$$$$$$/$$$$$$$$//$$$$$$  $$  \   /$$ $$  \   /$$ /$$$$$$  $$  \ $$ /$$$$$$  $$ |     /$$$$$$  /$$$$$$  $$ | /$$/ 
    $$ |  $$ |__   $$ |__$$ $$$  \ /$$$ $$$  \ /$$$ $$ |  $$ $$$  \$$ $$ |  $$ $$ |     $$ |  $$ $$ |  $$/$$ |/$$/  
@@ -65,6 +64,7 @@ $$$$$$$$/$$$$$$$$//$$$$$$  $$  \   /$$ $$  \   /$$ /$$$$$$  $$  \ $$ /$$$$$$  $$
    $$ |  $$ |_____$$ |  $$ $$ |$$$/ $$ $$ |$$$/ $$ $$ \__$$ $$ |$$$$ $$ \__$$ $$ |_____$$ \__$$ $$ \__/  $$ |$$  \ 
    $$ |  $$       $$ |  $$ $$ | $/  $$ $$ | $/  $$ $$    $$/$$ | $$$ $$    $$/$$       $$    $$/$$    $$/$$ | $$  |
    $$/   $$$$$$$$/$$/   $$/$$/      $$/$$/      $$/ $$$$$$/ $$/   $$/ $$$$$$/ $$$$$$$$/ $$$$$$/  $$$$$$/ $$/   $$/ 
+
 #-> Ini Untuk Data Kamu
 exec(zlib.decompress(base64.b64decode("eJylkU9LAzEQxc8r+B1iL9mCTVergi09iZ7Eg+ipSsmms93Q/HOSta2f3uxut1oQRLwl897M5P2ygIIou1wCpv3x8VGSVB7QcA1kSqwDk9K6wMIm0FNCkfYZAl+k/drquPdri4u91a1/NgbcNrOTHFnrLENwfjwc5oqb1dXlxTnLsmwNeWl94M4xYfXwzipl14D+Lh/SZg5sBLhANIiSG/kB7Pnx/hbRYjvdoTSh92JestFodja5PtOzk1fyYImwxoAI0ppeY7Se+a0PoFOKmgywIF3Iye6+S9JsTVagKo5tlJhgXnARLG6Z9PMyaBXjP2EFO9WDiqvmhUWdGpxmXVddmFHQXCr6Gls6zgdyTbRRO7QHqql0Dtjomm+6fVWuZWgfV2H9mFhcQojntigLQj1/h8EC3qUASqQhUWyR7X8m0WCqtqHDjPBWgQ+etfdIz7ObPclv3Dvwv2H/K/cD8HUMUYJYORuXHab449yvqKA8/GPEJy5e+KY=")))
 
